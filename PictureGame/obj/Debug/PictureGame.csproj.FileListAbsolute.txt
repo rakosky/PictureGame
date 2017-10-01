@@ -1,0 +1,9 @@
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\bin\Debug\PictureGame.exe.config
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\bin\Debug\PictureGame.exe
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\bin\Debug\PictureGame.pdb
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\obj\Debug\PictureGame.csprojResolveAssemblyReference.cache
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\obj\Debug\PictureGame.Form1.resources
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\obj\Debug\PictureGame.Properties.Resources.resources
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\obj\Debug\PictureGame.csproj.GenerateResource.Cache
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\obj\Debug\PictureGame.exe
+c:\users\jakes\OneDrive\Documents\Visual Studio 2017\Projects\PictureGame\PictureGame\obj\Debug\PictureGame.pdb
